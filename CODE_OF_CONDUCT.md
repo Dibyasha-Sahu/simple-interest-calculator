@@ -126,3 +126,12 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+## Enforcement Guidelines
+
+Community leaders will follow these guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+
+1. Correction: A private warning.
+2. Warning: A formal warning with consequences.
+3. Temporary Ban: Temporary restriction from the community.
+4. Permanent Ban: Permanent removal from the community.
